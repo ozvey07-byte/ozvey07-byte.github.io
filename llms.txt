@@ -4,10 +4,10 @@
 
 ## Apps
 
-- [MirrorVO](https://apps.apple.com/app/id6799552665): Mirror your iPhone screen to your TV. Games, videos, photos or slides: mirrors your iPhone screen wirelessly to Chromecast-enabled TVs. No cables, no setup.
-- [LayoutVO](https://apps.apple.com/app/id6818802118): Plan your room in 3D, place furniture. Enter your room size, drag and drop furniture, walk through it in 3D and see it in your room with AR. AI turns your plan into a realistic photo.
+- [MirrorVO](https://apps.apple.com/app/id6799552665): Mirror your iPhone screen to your TV. Mirrors your iPhone wirelessly to a Chromecast TV, to the web browser of a TV without Chromecast, or to another iPhone. With sound, up to 1080p.
+- [LayoutVO](https://apps.apple.com/app/id6818802118): Plan your room in 3D, place furniture. Enter or scan your room size, drag and drop furniture, walk through it in 3D and see it in your room with AR. Send a scaled plan and a materials list to your contractor.
 - [StageVO](https://ozvey07-byte.github.io/en/#stagevo) (coming soon): See it in your room before you buy. Places a photo of a vase, rug or lamp into a photo of your own room. The product stays exactly as it is; shadow and light adapt to your room. Everything runs on your phone.
-- [CallVO](https://ozvey07-byte.github.io/en/#callvo) (coming soon): Turn conversations into text. Transcribes recordings right on your phone and exports them as Word and PDF. No servers: audio and text never leave your phone.
+- [CallVO](https://ozvey07-byte.github.io/en/#callvo) (coming soon): Block unwanted calls. Blocks a single number or a whole number range; or lets the call ring with a "possible spam" label. Your list stays on your phone.
 
 ## Contact
 
