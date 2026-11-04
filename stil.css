@@ -54,7 +54,8 @@ h2 { margin: 0; font-size: 21px; }
 .kart.sonra .simge { filter: saturate(.85); }
 footer { padding-top: 40px; padding-bottom: 48px; color: var(--soluk); font-size: 14px; }
 footer a { color: inherit; }
-.diller a { text-decoration: none; }
+.diller { line-height: 2; }
+.diller a { text-decoration: none; white-space: nowrap; }
 .diller a[aria-current] { color: var(--yazi); font-weight: 700; }
 @media (max-width: 480px) {
   header { padding-top: 36px; }
