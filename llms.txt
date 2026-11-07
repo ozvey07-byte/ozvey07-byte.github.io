@@ -2,6 +2,8 @@
 
 > MirrorVO, LayoutVO and more. Simple iPhone apps that make everyday tasks easier.
 
+VO Makers is an independent studio building simple, useful apps for iPhone. We started with screen mirroring and room planning, and the family keeps growing: more apps, games and desktop tools are on the way.
+
 ## Apps
 
 - [MirrorVO](https://apps.apple.com/app/id6799552665): Mirror your iPhone screen to your TV. Mirrors your iPhone wirelessly to a Chromecast TV, to the web browser of a TV without Chromecast, or to another iPhone. With sound, up to 1080p.
@@ -11,4 +13,5 @@
 
 ## Contact
 
-- hello@vomakers.com
+- General: hello@vomakers.com
+- App support: support@vomakers.com
